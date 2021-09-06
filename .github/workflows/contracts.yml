@@ -1,4 +1,4 @@
-name: Solidity
+name: Solidity / keep-core
 
 on:
   schedule:
